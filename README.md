@@ -1,6 +1,6 @@
 # FS-PROJECT
 
-Projeto base para compra de produtos,
+Projeto base para compra de produtos.
 O sistema consiste na criação de compras e clientes.
 
 O arquivo DBSeeder já cria automaticamente as tabelas do banco de dados e insere dados ficticios, mas para isso é necessário que já esteja criado um schema "fs_database".
